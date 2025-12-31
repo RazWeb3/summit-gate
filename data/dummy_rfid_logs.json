@@ -1,0 +1,602 @@
+[
+  {
+    "hutId": "goraikousanso",
+    "timestamp": "2025-07-15T04:02:26.000Z",
+    "count": 1,
+    "location": "New 7th Station (Goraikousanso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T04:04:51.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T04:06:03.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "ikedakan",
+    "timestamp": "2025-07-15T04:09:30.000Z",
+    "count": 1,
+    "location": "8th Station (Ikeda-kan)"
+  },
+  {
+    "hutId": "ikedakan",
+    "timestamp": "2025-07-15T04:11:22.000Z",
+    "count": 1,
+    "location": "8th Station (Ikeda-kan)"
+  },
+  {
+    "hutId": "houeisanso",
+    "timestamp": "2025-07-15T04:14:05.000Z",
+    "count": 1,
+    "location": "6th Station (Houei-sanso)"
+  },
+  {
+    "hutId": "ikedakan",
+    "timestamp": "2025-07-15T04:18:26.000Z",
+    "count": 1,
+    "location": "8th Station (Ikeda-kan)"
+  },
+  {
+    "hutId": "ikedakan",
+    "timestamp": "2025-07-15T04:20:54.000Z",
+    "count": 1,
+    "location": "8th Station (Ikeda-kan)"
+  },
+  {
+    "hutId": "houeisanso",
+    "timestamp": "2025-07-15T04:23:48.000Z",
+    "count": 1,
+    "location": "6th Station (Houei-sanso)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T04:28:14.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T04:32:29.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T04:36:24.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "houeisanso",
+    "timestamp": "2025-07-15T04:40:37.000Z",
+    "count": 1,
+    "location": "6th Station (Houei-sanso)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T04:43:46.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "yamaguchisanso",
+    "timestamp": "2025-07-15T04:46:38.000Z",
+    "count": 1,
+    "location": "Old 7th Station (Yamaguchi-sanso)"
+  },
+  {
+    "hutId": "yamaguchisanso",
+    "timestamp": "2025-07-15T04:51:00.000Z",
+    "count": 1,
+    "location": "Old 7th Station (Yamaguchi-sanso)"
+  },
+  {
+    "hutId": "yamaguchisanso",
+    "timestamp": "2025-07-15T04:54:28.000Z",
+    "count": 1,
+    "location": "Old 7th Station (Yamaguchi-sanso)"
+  },
+  {
+    "hutId": "munatsukisanso",
+    "timestamp": "2025-07-15T04:58:29.000Z",
+    "count": 1,
+    "location": "9.5th Station (Munatsuki-sanso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T05:00:13.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T05:02:27.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "yamaguchisanso",
+    "timestamp": "2025-07-15T05:06:34.000Z",
+    "count": 1,
+    "location": "Old 7th Station (Yamaguchi-sanso)"
+  },
+  {
+    "hutId": "houeisanso",
+    "timestamp": "2025-07-15T05:09:55.000Z",
+    "count": 1,
+    "location": "6th Station (Houei-sanso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T05:11:20.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T05:14:20.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "yamaguchisanso",
+    "timestamp": "2025-07-15T05:17:35.000Z",
+    "count": 1,
+    "location": "Old 7th Station (Yamaguchi-sanso)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T05:19:24.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "goraikousanso",
+    "timestamp": "2025-07-15T05:22:15.000Z",
+    "count": 1,
+    "location": "New 7th Station (Goraikousanso)"
+  },
+  {
+    "hutId": "goraikousanso",
+    "timestamp": "2025-07-15T05:26:31.000Z",
+    "count": 1,
+    "location": "New 7th Station (Goraikousanso)"
+  },
+  {
+    "hutId": "ikedakan",
+    "timestamp": "2025-07-15T05:29:27.000Z",
+    "count": 1,
+    "location": "8th Station (Ikeda-kan)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T05:33:02.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T05:37:42.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "ikedakan",
+    "timestamp": "2025-07-15T05:40:56.000Z",
+    "count": 1,
+    "location": "8th Station (Ikeda-kan)"
+  },
+  {
+    "hutId": "ikedakan",
+    "timestamp": "2025-07-15T05:43:36.000Z",
+    "count": 1,
+    "location": "8th Station (Ikeda-kan)"
+  },
+  {
+    "hutId": "houeisanso",
+    "timestamp": "2025-07-15T05:46:39.000Z",
+    "count": 1,
+    "location": "6th Station (Houei-sanso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T05:49:49.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T05:53:56.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "yamaguchisanso",
+    "timestamp": "2025-07-15T05:57:05.000Z",
+    "count": 1,
+    "location": "Old 7th Station (Yamaguchi-sanso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T05:58:24.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "munatsukisanso",
+    "timestamp": "2025-07-15T05:59:15.000Z",
+    "count": 1,
+    "location": "9.5th Station (Munatsuki-sanso)"
+  },
+  {
+    "hutId": "ikedakan",
+    "timestamp": "2025-07-15T06:00:11.000Z",
+    "count": 1,
+    "location": "8th Station (Ikeda-kan)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T06:01:54.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "goraikousanso",
+    "timestamp": "2025-07-15T06:05:03.000Z",
+    "count": 1,
+    "location": "New 7th Station (Goraikousanso)"
+  },
+  {
+    "hutId": "houeisanso",
+    "timestamp": "2025-07-15T06:08:46.000Z",
+    "count": 1,
+    "location": "6th Station (Houei-sanso)"
+  },
+  {
+    "hutId": "goraikousanso",
+    "timestamp": "2025-07-15T06:10:07.000Z",
+    "count": 1,
+    "location": "New 7th Station (Goraikousanso)"
+  },
+  {
+    "hutId": "yamaguchisanso",
+    "timestamp": "2025-07-15T06:14:33.000Z",
+    "count": 1,
+    "location": "Old 7th Station (Yamaguchi-sanso)"
+  },
+  {
+    "hutId": "yamaguchisanso",
+    "timestamp": "2025-07-15T06:16:04.000Z",
+    "count": 1,
+    "location": "Old 7th Station (Yamaguchi-sanso)"
+  },
+  {
+    "hutId": "houeisanso",
+    "timestamp": "2025-07-15T06:17:11.000Z",
+    "count": 1,
+    "location": "6th Station (Houei-sanso)"
+  },
+  {
+    "hutId": "ikedakan",
+    "timestamp": "2025-07-15T06:19:20.000Z",
+    "count": 1,
+    "location": "8th Station (Ikeda-kan)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T06:21:50.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "goraikousanso",
+    "timestamp": "2025-07-15T06:26:21.000Z",
+    "count": 1,
+    "location": "New 7th Station (Goraikousanso)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T06:29:03.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "munatsukisanso",
+    "timestamp": "2025-07-15T06:30:07.000Z",
+    "count": 1,
+    "location": "9.5th Station (Munatsuki-sanso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T06:35:06.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "goraikousanso",
+    "timestamp": "2025-07-15T06:37:52.000Z",
+    "count": 1,
+    "location": "New 7th Station (Goraikousanso)"
+  },
+  {
+    "hutId": "munatsukisanso",
+    "timestamp": "2025-07-15T06:42:24.000Z",
+    "count": 1,
+    "location": "9.5th Station (Munatsuki-sanso)"
+  },
+  {
+    "hutId": "yamaguchisanso",
+    "timestamp": "2025-07-15T06:43:10.000Z",
+    "count": 1,
+    "location": "Old 7th Station (Yamaguchi-sanso)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T06:47:17.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "houeisanso",
+    "timestamp": "2025-07-15T06:50:51.000Z",
+    "count": 1,
+    "location": "6th Station (Houei-sanso)"
+  },
+  {
+    "hutId": "munatsukisanso",
+    "timestamp": "2025-07-15T06:54:40.000Z",
+    "count": 1,
+    "location": "9.5th Station (Munatsuki-sanso)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T06:59:21.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T07:00:52.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "munatsukisanso",
+    "timestamp": "2025-07-15T07:03:13.000Z",
+    "count": 1,
+    "location": "9.5th Station (Munatsuki-sanso)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T07:06:59.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "munatsukisanso",
+    "timestamp": "2025-07-15T07:09:28.000Z",
+    "count": 1,
+    "location": "9.5th Station (Munatsuki-sanso)"
+  },
+  {
+    "hutId": "houeisanso",
+    "timestamp": "2025-07-15T07:13:03.000Z",
+    "count": 1,
+    "location": "6th Station (Houei-sanso)"
+  },
+  {
+    "hutId": "houeisanso",
+    "timestamp": "2025-07-15T07:17:18.000Z",
+    "count": 1,
+    "location": "6th Station (Houei-sanso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T07:17:54.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "munatsukisanso",
+    "timestamp": "2025-07-15T07:19:39.000Z",
+    "count": 1,
+    "location": "9.5th Station (Munatsuki-sanso)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T07:21:37.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "munatsukisanso",
+    "timestamp": "2025-07-15T07:26:01.000Z",
+    "count": 1,
+    "location": "9.5th Station (Munatsuki-sanso)"
+  },
+  {
+    "hutId": "munatsukisanso",
+    "timestamp": "2025-07-15T07:28:58.000Z",
+    "count": 1,
+    "location": "9.5th Station (Munatsuki-sanso)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T07:32:23.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "ikedakan",
+    "timestamp": "2025-07-15T07:34:23.000Z",
+    "count": 1,
+    "location": "8th Station (Ikeda-kan)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T07:36:19.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "houeisanso",
+    "timestamp": "2025-07-15T07:39:40.000Z",
+    "count": 1,
+    "location": "6th Station (Houei-sanso)"
+  },
+  {
+    "hutId": "ikedakan",
+    "timestamp": "2025-07-15T07:42:21.000Z",
+    "count": 1,
+    "location": "8th Station (Ikeda-kan)"
+  },
+  {
+    "hutId": "houeisanso",
+    "timestamp": "2025-07-15T07:46:42.000Z",
+    "count": 1,
+    "location": "6th Station (Houei-sanso)"
+  },
+  {
+    "hutId": "ikedakan",
+    "timestamp": "2025-07-15T07:48:04.000Z",
+    "count": 1,
+    "location": "8th Station (Ikeda-kan)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T07:52:11.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "ikedakan",
+    "timestamp": "2025-07-15T07:53:10.000Z",
+    "count": 1,
+    "location": "8th Station (Ikeda-kan)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T07:53:46.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "munatsukisanso",
+    "timestamp": "2025-07-15T07:55:37.000Z",
+    "count": 1,
+    "location": "9.5th Station (Munatsuki-sanso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T07:58:24.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T08:03:18.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T08:06:28.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "goraikousanso",
+    "timestamp": "2025-07-15T08:10:39.000Z",
+    "count": 1,
+    "location": "New 7th Station (Goraikousanso)"
+  },
+  {
+    "hutId": "goraikousanso",
+    "timestamp": "2025-07-15T08:15:09.000Z",
+    "count": 1,
+    "location": "New 7th Station (Goraikousanso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T08:19:32.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "houeisanso",
+    "timestamp": "2025-07-15T08:20:28.000Z",
+    "count": 1,
+    "location": "6th Station (Houei-sanso)"
+  },
+  {
+    "hutId": "munatsukisanso",
+    "timestamp": "2025-07-15T08:21:26.000Z",
+    "count": 1,
+    "location": "9.5th Station (Munatsuki-sanso)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T08:24:57.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  },
+  {
+    "hutId": "ikedakan",
+    "timestamp": "2025-07-15T08:26:02.000Z",
+    "count": 1,
+    "location": "8th Station (Ikeda-kan)"
+  },
+  {
+    "hutId": "houeisanso",
+    "timestamp": "2025-07-15T08:29:55.000Z",
+    "count": 1,
+    "location": "6th Station (Houei-sanso)"
+  },
+  {
+    "hutId": "yamaguchisanso",
+    "timestamp": "2025-07-15T08:34:10.000Z",
+    "count": 1,
+    "location": "Old 7th Station (Yamaguchi-sanso)"
+  },
+  {
+    "hutId": "munatsukisanso",
+    "timestamp": "2025-07-15T08:38:12.000Z",
+    "count": 1,
+    "location": "9.5th Station (Munatsuki-sanso)"
+  },
+  {
+    "hutId": "yamaguchisanso",
+    "timestamp": "2025-07-15T08:39:43.000Z",
+    "count": 1,
+    "location": "Old 7th Station (Yamaguchi-sanso)"
+  },
+  {
+    "hutId": "goraikousanso",
+    "timestamp": "2025-07-15T08:44:01.000Z",
+    "count": 1,
+    "location": "New 7th Station (Goraikousanso)"
+  },
+  {
+    "hutId": "mannenyukisanso",
+    "timestamp": "2025-07-15T08:48:15.000Z",
+    "count": 1,
+    "location": "9th Station (Mannen-yuki-sanso)"
+  },
+  {
+    "hutId": "ikedakan",
+    "timestamp": "2025-07-15T08:50:40.000Z",
+    "count": 1,
+    "location": "8th Station (Ikeda-kan)"
+  },
+  {
+    "hutId": "unkaiso",
+    "timestamp": "2025-07-15T08:52:37.000Z",
+    "count": 1,
+    "location": "6th Station (Unkaiso)"
+  }
+]

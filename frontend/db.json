@@ -1,0 +1,51 @@
+{
+  "huts": [
+    {
+      "id": 1,
+      "name": "雲海荘（六合目）",
+      "address": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC",
+      "count": 18
+    },
+    {
+      "id": 2,
+      "name": "宝永山荘（六合目）",
+      "address": "0x15d34AAf54267DB7D7c367839AAf71A00a2C6A65",
+      "count": 14
+    },
+    {
+      "id": 3,
+      "name": "御来光山荘（新七合目）",
+      "address": "0x90F79bf6EB2c4f870365E785982E1f101E93b906",
+      "count": 10
+    },
+    {
+      "id": 4,
+      "name": "山口山荘（元祖七合目）",
+      "address": "0x9965507D1a55bcC2695C58ba16FB37d819B0A4dc",
+      "count": 11
+    },
+    {
+      "id": 5,
+      "name": "池田館（八合目）",
+      "address": "0x976EA74026E726554dB657fA54763abd0C3a0aa9",
+      "count": 15
+    },
+    {
+      "id": 6,
+      "name": "萬年雪山荘（九合目）",
+      "address": "0x14dC79964da2C08b23698B3D3cc7Ca32193d9955",
+      "count": 19
+    },
+    {
+      "id": 7,
+      "name": "胸突山荘（九合五勺）",
+      "address": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8",
+      "count": 13
+    }
+  ],
+  "coefficients": {
+    "2": 0.7,
+    "7": 0.7
+  },
+  "lastUpdated": "2025-12-27T06:16:12.133Z"
+}

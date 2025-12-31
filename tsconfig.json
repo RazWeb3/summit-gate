@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,
+    "outDir": "dist",
+    "resolveJsonModule": true,
+    "types": ["node", "mocha", "chai"],
+    "skipLibCheck": true
+  },
+  "include": ["./scripts", "./test", "./typechain-types", "./types"],
+  "exclude": ["node_modules", "scripts/send-op-tx.ts", "test/Counter.ts"],
+  "ts-node": {
+    "transpileOnly": true,
+    "files": true
+  }
+}
